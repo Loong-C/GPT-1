@@ -213,7 +213,7 @@ __marimo__/
 *.ckpt
 *.bin
 /checkpoints/
-
+/model_save/
 # 训练数据集（建议放在本地 data 文件夹下）
 /data/
 *.txt
